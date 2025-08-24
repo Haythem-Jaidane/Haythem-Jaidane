@@ -2,6 +2,7 @@
 ### I'm Haythem Jaidane
 
 Passionate about TinyML, Data Engineering, and MLOps.
+
 I enjoy designing intelligent systems that connect hardware, software, and data.
 <!--
 **Haythem-Jaidane/Haythem-Jaidane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
